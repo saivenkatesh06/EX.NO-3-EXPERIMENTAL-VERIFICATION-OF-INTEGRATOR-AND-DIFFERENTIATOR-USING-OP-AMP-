@@ -36,13 +36,13 @@ T ≥ Rf Cf
 The integrator is most commonly used in analog computers and ADC and signal-wave shaping circuits.
 CIRCUIT DIAGRAM
 ## CIRCUIT DIAGRAM
-<img width="698" height="423" alt="image" src="https://github.com/user-attachments/assets/f007b349-f96e-42d3-acd3-a37119fc16fc" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/405efd96-2a15-4761-aa4b-d9d697e803cc" />
+
 
 
 ## MODEL GRAPH
-<img width="556" height="380" alt="image" src="https://github.com/user-attachments/assets/caa7461c-69f7-4636-8e31-eea6db6efbb5" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/a1d4ae36-7079-42c5-89f9-3eca097a9f8b" />
 
-<img width="847" height="553" alt="image" src="https://github.com/user-attachments/assets/d8d3e586-8e58-47ba-baae-2794c7955d51" />
 
 ---
 
@@ -61,15 +61,12 @@ We get , R1 =	and hence Rf =
 
 
 ## TABULATION
-| Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
-|----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-| Sine Wave      |                          |                             |                           |                           |                              |                            |
-| Square Wave    |                          |                             |                           |                           |                              |                            |
-		
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c18319c5-91de-481d-9425-63b6ef637c04" />
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/94a3ea9e-49b0-4600-bc33-193ffe5def8f" />
 
 
 ---
@@ -109,7 +106,8 @@ Here the negative sign indicates that the output voltage is 180 0 out of phase w
 The differentiator is most commonly used in wave shaping circuits to detect high frequency components in an input signal and also as a rate–of–change detector in FM modulators.
 
 ## CIRCUIT DIAGRAM
-<img width="760" height="414" alt="image" src="https://github.com/user-attachments/assets/6ee3caf5-d5de-4c38-8ebe-7ff5add6c9cd" />
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/3686ff0b-4b79-4269-bf8e-3855d40a10dd" />
+
 
 
 
@@ -117,14 +115,16 @@ The differentiator is most commonly used in wave shaping circuits to detect high
 
 (i)	 SINE WAVE INPUT
 
-<img width="687" height="479" alt="image" src="https://github.com/user-attachments/assets/c89226c0-c2bb-4544-b355-27fc0d923f1a" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/625cb1db-b228-4152-b536-2d70006b8a40" />
+
 ---
 
 AND
 
 (ii) SQUARE WAVE INPUT
 
-<img width="758" height="447" alt="image" src="https://github.com/user-attachments/assets/cda33b00-c40c-490f-a9bd-e06107119c25" />
+<img width="1069" height="542" alt="image" src="https://github.com/user-attachments/assets/68577bab-053b-4e3c-ba69-dba5940eae7f" />
+
 
 
 ---
@@ -149,15 +149,14 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 4.	The output voltage is obtained in the CRO and the input and output voltage waveforms are plotted in a graph sheet.
 
  ## TABULATION
-| Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
-|----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-| Sine Wave      |                          |                             |                           |                           |                              |                            |
-| Square Wave    |                          |                             |                           |                           |                              |                            |
-		
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/9337318b-2003-4ca6-accc-2236d59a5816" />
+
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/0229fb1b-34f1-4e67-9b8b-fad034813d67" />
 
----
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/765612b7-5478-4615-aced-02d15f99c1e1" />
+
 
 RESULT:
 Thus an Integrator and Differentiator using op-amp are designed and their performance was successfully tested using op-amp IC 741.
